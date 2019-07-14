@@ -1,9 +1,10 @@
 # Prediction IO 
 
 Ref. 
-https://predictionio.apache.org/start/
-https://predictionio.apache.org/install/
-https://predictionio.apache.org/templates/recommendation/quickstart/
+
+	https://predictionio.apache.org/start/
+	https://predictionio.apache.org/install/
+	https://predictionio.apache.org/templates/recommendation/quickstart/
 
 
 ## Thumb Rule : Dont waste your time with existing builds but try to compile and build everything from code.

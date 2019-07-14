@@ -1,0 +1,13 @@
+.DS_Store
+manifest.json
+target/
+pio.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
